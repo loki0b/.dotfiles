@@ -1,2 +1,6 @@
 [font]
-normal = { family = "monospace", style = "regular" }
+size = 11.0
+
+[font.normal]
+family = "IBM Plex Mono"
+style = "Regular"
