@@ -1,0 +1,7 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "editor.matchBrackets": "never",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Min Dark"
+}
